@@ -45,9 +45,9 @@ To combine logistics expertise with software development and build digital tools
 
 ## 📫 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/mert-saran/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/mert-saran)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white)](mailto:merttsaran@gmail.com)
 
-Email: merttsaran@gmail.com  
 
 ---
 
