@@ -45,8 +45,7 @@ I leverage cutting-edge AI tools to accelerate development cycles and ensure cod
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=merttsaran&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=merttsaran&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=merttsaran&theme=tokyonight&hide_border=true" alt="Mert's Streak" />
 </p>
 
 ---
