@@ -6,14 +6,14 @@
   </a>
 </p>
 
-### 🚀 Logistics Specialist | Aspiring Full-Stack Developer | AI-Driven Coder
+### 🚀 Logistics Specialist | Aspiring Full-Stack Developer
 
 I am an experienced professional with 8 years of deep expertise in **International Logistics & Customs Operations**, currently bridging the gap between global supply chain management and modern software engineering.
 
 - 🏗️ **Core Focus:** Building high-performance web applications using **HTML5, CSS3, and Tailwind CSS**.
 - 🛠️ **Professional Background:** Senior Coordinator at **Hapag-Lloyd**, leveraging operational insights to build smarter logistics tools.
-- 🎯 **Current Project:** Developing a **Global Customs Requirement Assistant** to automate international shipping documentation.
-- 🎓 **Growth Path:** Enrolling in the **GoIT Full-stack Developer Bootcamp** (Starting May 2026).
+- 🎯 **Current Project:** Learning React and practicing with FreeCodeCamp exercises.
+- 🎓 **Growth Path:** Advancing toward full-stack development with React and beyond.
 
 ---
 
