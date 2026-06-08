@@ -10,8 +10,8 @@
 
 I am an experienced professional with 8 years of deep expertise in **International Logistics & Customs Operations**, currently bridging the gap between global supply chain management and modern software engineering.
 
-- 🏗️ **Core Focus:** Building high-performance web applications using **HTML5, CSS3, and Tailwind CSS**.
-- 🛠️ **Professional Background:** Senior Coordinator at **Hapag-Lloyd**, leveraging operational insights to build smarter logistics tools.
+- 🏗️ **Core Focus:** 🏗️ Core Focus: Building web applications using HTML, CSS, and JavaScript.
+- 🛠️ **Professional Background:** Professional Background: Former Senior Coordinator at Hapag-Lloyd, leveraging 8 years of logistics expertise to build smarter tools for the industry.
 - 🎯 **Current Project:** Learning React and practicing with FreeCodeCamp exercises.
 - 🎓 **Growth Path:** Advancing toward full-stack development with React and beyond.
 
